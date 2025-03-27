@@ -1,4 +1,4 @@
-# Student_performance_analysis_python
+# Student_performance_analysis_using_Python
  Project Overview
 This project analyzes a dataset related to student performance, focusing on various factors that may impact their scores. The dataset, Expanded_data_with_more_features.csv, is loaded and explored using Python libraries like Pandas, NumPy, and Seaborn.
 
